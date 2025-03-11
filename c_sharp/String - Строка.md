@@ -118,7 +118,12 @@ Console.WriteLine(a.Trim('о','д'));
 
 string a = "да сколько можно";
 Console.WriteLine(a.Substring(3,8));// сколько
+Console.WriteLine(a.Substring(3));// сколько можно
+
 Console.WriteLine(a.Remove(3, 8));// да можно
+Console.WriteLine(a.Remove(3));// да
+
+
 ```
 
 ### Contains
