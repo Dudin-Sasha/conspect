@@ -133,8 +133,9 @@ Console.WriteLine(a.Remove(3));// да
 в строках ищет подстроку
 ```cs
 string s1 = "aaaaBBBB";
-Console.WriteLine(s1.Contains("aaa"));//
+Console.WriteLine(s1.Contains("aaa"));// true
 ```
+
 ### indexOf 
 принимает до трех параметров 
 1) что мы ищем
