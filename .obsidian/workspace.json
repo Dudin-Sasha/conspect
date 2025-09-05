@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/конспект по гиту.md",
+                "file": "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "конспект по гиту"
+              "title": "События- Unity"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/конспект по гиту.md",
+                "file": "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from конспект по гиту"
+              "title": "Outgoing links from События- Unity"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/конспект по гиту.md",
+                "file": "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of конспект по гиту"
+              "title": "Outline of События- Unity"
             }
           },
           {
@@ -177,19 +177,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false,
       "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6515f1f60274be78",
+  "active": "7d7a3367b52f66af",
   "lastOpenFiles": [
+    "backEnd/Unity (кач.взаимодейтв. сетей)/чёта там игры.md",
+    "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
+    "backEnd/c_sharp/Типы данных/Int - Float - Double.md",
     "game design/гейм дизайн.md",
-    "frontEnd/php.md",
     "git/конспект по гиту.md",
+    "frontEnd/php.md",
     "циферки/Источники и классификация погрешностей результата численного решения.md",
     "game design",
-    "backEnd/c_sharp/Типы данных/Int - Float - Double.md",
     "циферки",
     "frontEnd/Вёрстка/Основа HTML.md",
     "Cisco packet tracer.md",
@@ -215,13 +216,11 @@
     "backEnd/c_sharp/Методы/Аргументы, Параметры, и Модификаторы.md",
     "Основа.md",
     "().md",
-    "backEnd/Unity/Методы - Unity.md",
     "backEnd/c_sharp/Коллекции данных/List - список.md",
     "backEnd/c_sharp/Коллекции данных/Dictionary - Словарь.md",
     "backEnd/ООП - объектно-ориентрованное программирование.md",
     "backEnd",
     "backEnd/c_sharp/Типы данных",
-    "backEnd/c_sharp/Коллекции данных/Многомерные массивы.md",
     "backEnd/c_sharp/Коллекции данных",
     "Pasted image 20250413224034.png",
     "backEnd/c_sharp/Методы",
