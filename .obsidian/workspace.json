@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
-                "mode": "source",
+                "file": "game design/10 Sep - Игровой цикл.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "События- Unity"
+              "title": "10 Sep - Игровой цикл"
             }
           }
         ]
@@ -181,24 +181,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d7a3367b52f66af",
+  "active": "6515f1f60274be78",
   "lastOpenFiles": [
     "backEnd/Unity (кач.взаимодейтв. сетей)/чёта там игры.md",
     "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
+    "game design/10 Sep - Игровой цикл.md",
+    "game design/гейм дизайн - 3 Sep.md",
+    "Cisco packet tracer.md",
+    "Другое/Csharp_tasks/Рекурсия.md",
+    "Другое/Csharp_tasks/Методы.md",
+    "frontEnd/Вёрстка/CSS.md",
+    "frontEnd/Вёрстка/Расположение.md",
     "backEnd/c_sharp/Типы данных/Int - Float - Double.md",
-    "game design/гейм дизайн.md",
     "git/конспект по гиту.md",
     "frontEnd/php.md",
     "циферки/Источники и классификация погрешностей результата численного решения.md",
     "game design",
     "циферки",
     "frontEnd/Вёрстка/Основа HTML.md",
-    "Cisco packet tracer.md",
-    "Другое/Csharp_tasks/Рекурсия.md",
-    "Другое/Csharp_tasks/Методы.md",
     "Другое/Заметки и Рекомендации.md",
-    "frontEnd/Вёрстка/CSS.md",
-    "frontEnd/Вёрстка/Расположение.md",
     "backEnd/c_sharp/Классы и Объекты.md",
     "frontEnd/images/Pasted image 20250529213421.png",
     "frontEnd/images/Pasted image 20250529213306.png",
@@ -218,7 +219,6 @@
     "().md",
     "backEnd/c_sharp/Коллекции данных/List - список.md",
     "backEnd/c_sharp/Коллекции данных/Dictionary - Словарь.md",
-    "backEnd/ООП - объектно-ориентрованное программирование.md",
     "backEnd",
     "backEnd/c_sharp/Типы данных",
     "backEnd/c_sharp/Коллекции данных",
