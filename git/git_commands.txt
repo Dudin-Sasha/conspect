@@ -1,0 +1,27 @@
+git <command> --help                - доки по команде
+
+git init                            - инициализация гита в директорию
+git push -u origin master           - добавление всех изменений в удаленный репо
+git commit -m "Message"             - коммит с сообщением (флаг -m) "Message"
+	git commit -a -m "Message"      - добавление изменений файлов, которые есть в прошлом коммите
+
+git remote add origin <link>
+
+git add <filename>                  - добавление файла <filename>
+	git add .                       - добавление всех файлов
+	git add *.py                    - добавление всех файлов с расширением .py
+	git add --amend                 - изменение старого коммита
+	git add --amend --no-edit       - изменение старого коммита с сохранением даты
+
+git status                          - статус файлов репозитория
+	git status -s                   - показ сокращенного статуса для каждого файла
+
+git log                             - показ истории коммитов
+git restore                         - откат до предыдущего коммита (поддерживает те же флаги как и add)
+	git restore --staged <filename> - убрать из файла метку add
+
+git revert --no-edit <id_commit>    - откат коммита (id_commit найти через git log) (head для прошлого коммита)
+
+git fetch <link> master             - перенос изменений из удаленного репо в локальный (link может быть origin)
+git merge master                    - объединяет несколько последовательностей коммитов в общую историю
+git pull                            - 
