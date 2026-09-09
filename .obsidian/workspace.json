@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/конспект по гиту.md",
+                "file": "JS/NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "конспект по гиту"
+              "title": "NodeJS"
             }
           }
         ],
@@ -70,10 +70,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -186,8 +188,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -200,28 +202,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "9e00172a7e45cc84",
   "lastOpenFiles": [
+    "JS/Без названия.md",
+    "JS/NodeJS.md",
+    "Untitled.base",
+    "JS",
+    "Без названия",
+    "Pasted image 20260117142538.png",
+    "Pasted image 20260117141423.png",
+    "Pasted image 20250917200306.png",
+    "git/конспект по гиту.md",
     "VR/Vr.md",
     "а чо вопросы что где.md",
     "2026-01-21.md",
     "Cisco packet tracer.md",
-    "git/конспект по гиту.md",
     "frontend/php.md",
     "VR/SDK 28.01.2026.md",
     "VR/UnityVR 28.01.2026.md",
-    "Untitled.base",
     "Untitled 1.base",
     "backEnd/Unity (кач.взаимодейтв. сетей)/чёта там игры.md",
     "backEnd/Unity (кач.взаимодейтв. сетей)/События- Unity.md",
@@ -249,14 +258,9 @@
     "frontEnd/images/Pasted image 20241120110838.png",
     "frontEnd/Вёрстка",
     "backEnd/c_sharp/Циклы.md",
-    "backEnd/c_sharp/Типы данных/String - Строка.md",
-    "backEnd/c_sharp/Методы/Предикат(ор) и компаратор.md",
     "backEnd",
     "backEnd/c_sharp/Типы данных",
-    "backEnd/c_sharp/Коллекции данных",
     "Pasted image 20250413224034.png",
-    "backEnd/c_sharp/Методы",
-    "Untitled.canvas",
-    "frontEnd/images/Pasted image 20241120111133.png"
+    "Untitled.canvas"
   ]
 }
